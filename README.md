@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bean</h1>
-<h3 align="center" style="color: #e600ff;">Now you see me at</h3>
 <p align="center">
   a software engineer
 </p>
